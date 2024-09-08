@@ -24,7 +24,7 @@ The Personal CV Website is a single-page web application aimed at providing a pr
 - **Favicon**: A custom favicon is included for branding.
 - **Responsive Design**: Mobile-first design ensures optimal display across devices.
 
-## Technologies Used
+## Technologies Used https://roadmap.sh/projects/single-page-cv
 
 - **HTML5**: For semantic structure.
 - **CSS3**: For styling and responsive design.
